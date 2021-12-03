@@ -46,7 +46,7 @@
     - ```seoul_attraction.ipynb```, ```seoul_entertainment.ipynb```, ```seoul_nature.ipynb```, ```seoul_shopping.ipynb```, ```seoul_touristic_whether.ipynb```
       - 공공데이터 포털에서 OPEN API를 활용하여 서울 관광 및 기상 정보를 크롤링하고 데이터에 맞는 기본 전처리를 진행한다.  
     - ```seoul_whether.ipynb```
-      - 네이버 날씨(기상청 제공)에서 서울 날씨 중 현재일 기준 오늘/내일/모레 최고/최저 기온을 크롤링한다.
+      - 네이버 날씨(기상청 제공)에서 서울 날씨 중 현재일 기준 오늘/내일/모레의 최고/최저 기온을 크롤링한다.
     - ```seoul_preprocessing+eda.ipynb```
       - 서울 관광 명소/문화/자연/쇼핑 데이터를 통합하여 추가적인 전처리를 진행하고, EDA를 수행한다.
     - ```seoul_total.ipynb```
