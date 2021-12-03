@@ -68,7 +68,7 @@
 ## 4. 대시보드
    <p align="center"><img width="800" alt="Where-To-Hang-Out-In-Seoul?" align="center" src="https://user-images.githubusercontent.com/78864775/144633972-2e02bfe3-b253-46c5-a9e5-52c94ca82da4.png"></p>
 
-   - [Tableau](https://public.tableau.com/views/1126_16381024790430/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)에서 직접 대시보드를 이용할 수 있습니다.
+   - [Tableau](https://public.tableau.com/views/_16385490563450/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)에서 직접 대시보드를 이용할 수 있습니다.
 
 ## 5. 개발 환경
 - Google Colab
