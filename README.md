@@ -66,7 +66,7 @@
 📌 더 많은 정보를 얻고 싶으면, ```Where-To-Hang-Out-In-Seoul-Poster.pdf```를 참고해 주세요.
 
 ## 4. 대시보드
-   <p align="center"><img width="800" alt="Where-To-Hang-Out-In-Seoul?" align="center" src="https://user-images.githubusercontent.com/78864775/144633972-2e02bfe3-b253-46c5-a9e5-52c94ca82da4.png"></p>
+   <p align="center"><img width="800" alt="Where-To-Hang-Out-In-Seoul?" align="center" src="https://user-images.githubusercontent.com/78864775/144639744-74548c79-f27b-4ea4-8fa1-920685cdef8f.png"></p>
 
    - [Tableau](https://public.tableau.com/views/_16385490563450/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)에서 직접 대시보드를 이용할 수 있습니다.
 
