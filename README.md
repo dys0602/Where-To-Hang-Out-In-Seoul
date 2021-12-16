@@ -38,6 +38,7 @@
    ┣ 📄 seoul_whether.csv
    ┣ 📄 gu_list.xlsx
    ┣ 📄 seoul_total.xlsx
+ ┣ 📄 README.md
  ┣ 📄 Where-To-Hang-Out-In-Seoul.twbx
  ┗ 📄 Where-To-Hang-Out-In-Seoul-Poster.pdf
 ```
